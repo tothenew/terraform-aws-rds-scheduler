@@ -4,13 +4,8 @@ provider "aws" {
 
 locals {
   region = "us-east-1"
-
-  tags = {
-    Environment = "prod"
-    GithubRepo  = "terraform-aws-rds-scheduler"
-    GithubOrg   = "tothenew"
-  }
 }
+
 module "rds-scheduler" {
   source     = "../"
   identifier = var.identifier
