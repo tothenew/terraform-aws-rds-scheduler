@@ -43,10 +43,6 @@ Aurora DB clusters can't be started or stopped under certain conditions:
 | enable | n/a | `bool` | `true` | no |
 | identifier | RDS instance or Aurora Cluster identifier for schedule | `any` | n/a | yes |
 
-## Outputs
-
-No output.
-
 <!--- END_TF_DOCS --->
 
 ## Authors
