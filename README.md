@@ -1,7 +1,7 @@
 # terraform-aws-rds-scheduler
 
-[![Lint Status](https://github.com/DNXLabs/terraform-aws-rds-scheduler/workflows/Lint/badge.svg)](https://github.com/DNXLabs/terraform-aws-rds-scheduler/actions)
-[![LICENSE](https://img.shields.io/github/license/DNXLabs/terraform-aws-rds-scheduler)](https://github.com/DNXLabs/terraform-aws-rds-scheduler/blob/master/LICENSE)
+[![Lint Status](https://github.com/tothenew/terraform-aws-template/workflows/Lint/badge.svg)](https://github.com/tothenew/terraform-aws-rds-scheduler/actions)
+[![LICENSE](ttps://img.shields.io/github/license/tothenew/terraform-aws-template)](https://github.com/tothenew/terraform-aws-rds-scheduler/blob/master/LICENSE)
 
 This is a module to create a schedule to shut down or start a Relational database service (RDS).
 
@@ -51,8 +51,8 @@ No output.
 
 ## Authors
 
-Module managed by [DNX Solutions](https://github.com/DNXLabs).
+Module managed by [TO THE NEW Pvt. Ltd.](https://github.com/tothenew).
 
 ## License
 
-Apache 2 Licensed. See [LICENSE](https://github.com/DNXLabs/terraform-aws-rds-scheduler/blob/master/LICENSE) for full details.
+Apache 2 Licensed. See [LICENSE](https://github.com/tothenew/terraform-aws-rds-scheduler/blob/master/LICENSE) for full details.
