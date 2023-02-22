@@ -1,7 +1,7 @@
 # terraform-aws-rds-scheduler
 
 [![Lint Status](https://github.com/tothenew/terraform-aws-template/workflows/Lint/badge.svg)](https://github.com/tothenew/terraform-aws-rds-scheduler/actions)
-[![LICENSE](ttps://img.shields.io/github/license/tothenew/terraform-aws-template)](https://github.com/tothenew/terraform-aws-rds-scheduler/blob/master/LICENSE)
+[![LICENSE](ttps://img.shields.io/github/license/tothenew/terraform-aws-template)](https://github.com/tothenew/terraform-aws-template/blob/master/LICENSE)
 
 This is a module to create a schedule to shut down or start a Relational database service (RDS).
 
